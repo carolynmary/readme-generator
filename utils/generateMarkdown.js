@@ -12,7 +12,7 @@ const getUsage = require("./getUsage.js")
 // function to generate markdown for README
 function generateMarkdown(answers) {
   return `
-  ![header](assets/images/cm_header.png)
+  ![header](./assets/images/cm_header.png)
 
   <!-- ![logo](path-to-file-here) -->
   # ${answers.title} 
@@ -59,7 +59,7 @@ ${getLicense(answers.license)}
   </br>
   </br>
 
-  ![header](Assets/images/cm_footer.png)
+  ![footer](./assets/images/cm_footer.png)
   © 2020 Carolyn Mary Stolze
   `;
 };

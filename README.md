@@ -1,5 +1,4 @@
-
-![header](assets/images/cm_header.png)
+![header](./assets/images/cm_header.png)
 
 <!-- ![logo](path-to-file-here) -->
 # README Template Generator 
@@ -65,6 +64,6 @@ Porfolio: [carolynmary.com](https://carolynmary.com)
 </br>
 </br>
 
-![header](Assets/images/cm_footer.png)
+![footer](./assets/images/cm_footer.png)
 © 2020 Carolyn Mary Stolze
   
