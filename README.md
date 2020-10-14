@@ -15,8 +15,8 @@
 - - -
 
 <!-- TOC -->
-[Installation](#installation) // [How to Use](#how-to-use) // [Testing](#testing) // [Credits](#credits) // [License](#license) // [Questions & Feedback](#questions-feedback) 
-  
+[Installation](#installation) // [How to Use](#how-to-use) // [What’s Next](#next) // [Credits](#credits) // [Contributing](#contributing) // [License](#license) // [Questions & Feedback](#questions--feedback) 
+
 ## Installation
   
 run command `npm i` to install dependencies
@@ -44,7 +44,6 @@ Let me know if you have suggestions!
 <!-- The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard. -->
 Please contact me for guidelines.
 
-<!-- License --> 
 ## License
     
 The code is licensed under the [MIT](https://choosealicense.com/licenses//) License.
