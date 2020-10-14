@@ -15,7 +15,7 @@
 - - -
 
 <!-- TOC -->
-[Installation](#installation) // [How to Use](#how-to-use) // [What’s Next](#next) // [Credits](#credits) // [Contributing](#contributing) // [License](#license) // [Questions & Feedback](#questions--feedback) 
+[Installation](#installation) // [How to Use](#how-to-use) // [What’s Next](#whats-next) // [Credits](#credits) // [Contributing](#contributing) // [License](#license) // [Questions & Feedback](#questions--feedback) 
 
 ## Installation
   
